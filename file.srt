@@ -1,0 +1,472 @@
+
+1
+00:0:1,760 --> 00:0:7,819
+During the Cold War the US and the Soviet Union had to build underground silos to house
+
+2
+00:0:7,860 --> 00:0:11,240
+nuclear missiles that could be launched at a few minutes notice.
+
+3
+00:0:11,359 --> 00:0:14,199
+Now, one of the technical challenges they had to overcome that you might not think of
+
+4
+00:0:14,279 --> 00:0:15,759
+is acoustics.
+
+5
+00:0:16,100 --> 00:0:19,400
+Launching a missile in such a confined silo generates
+
+6
+00:0:19,579 --> 00:0:23,359
+a loud sound, so loud that it would've shaken apart the missiles
+
+7
+00:0:23,440 --> 00:0:25,320
+before they could even launch.
+
+8
+00:0:25,359 --> 00:0:28,800
+So the walls of the inside of the silo had to be covered
+
+9
+00:0:28,879 --> 00:0:30,960
+in acoustically absorbent tiles,
+
+10
+00:0:30,980 --> 00:0:34,480
+very similar to those in the world's quietest room.
+
+11
+00:0:34,899 --> 00:0:38,259
+But after all of the technical challenges were sorted,
+
+12
+00:0:38,520 --> 00:0:42,220
+what I wanted to know was 'how could they have launched these missiles
+
+13
+00:0:42,320 --> 00:0:46,600
+very quickly, if needed, but also never by accident?'
+
+14
+00:0:46,880 --> 00:0:50,679
+So I visited one of these Titan missile silos in the Arizona desert
+
+15
+00:0:50,740 --> 00:0:55,140
+to find out exactly what it would have taken to launch a nuclear missile.
+
+16
+00:0:58,460 --> 00:1:4,599
+Well, Derek this is level 2 of the silo, we are down some 10 meters below the surface now.
+
+17
+00:1:5,000 --> 00:1:6,299
+And this...
+
+18
+00:1:7,019 --> 00:1:8,359
+is the launch duct.
+
+19
+00:1:13,620 --> 00:1:15,719
+— Wow. — And that is Titan II.
+
+20
+00:1:16,420 --> 00:1:22,320
+The largest and most powerful missile weapons system ever deployed by the United States.
+
+21
+00:1:22,519 --> 00:1:23,979
+And what kind of bomb is in there?
+
+22
+00:1:24,079 --> 00:1:26,019
+That is a thermonuclear bomb.
+
+23
+00:1:26,280 --> 00:1:27,840
+It is a 9 megaton weapon.
+
+24
+00:1:28,040 --> 00:1:29,640
+Compared to Hiroshima?
+
+25
+00:1:29,879 --> 00:1:32,959
+Oh, call it 650 times.
+
+26
+00:1:33,620 --> 00:1:35,780
+An enormously powerful weapon.
+
+27
+00:1:36,200 --> 00:1:38,019
+And what was the idea with it?
+
+28
+00:1:38,099 --> 00:1:44,039
+The idea behind Titan II was to instill enough fear in the mind of the enemy,
+
+29
+00:1:44,519 --> 00:1:48,399
+to cause them to think twice about launching an attack against us.
+
+30
+00:1:48,519 --> 00:1:53,780
+Knowing that 10 meters below the desert in our fortified concrete bunker,
+
+31
+00:1:53,819 --> 00:1:59,099
+we could ride out their first strike, and live to retaliate, if we're forced to do that,
+
+32
+00:1:59,180 --> 00:2:3,380
+the consequences for the enemy would be so unspeakably horrible
+
+33
+00:2:3,420 --> 00:2:6,600
+that maybe they would prefer not to get into it with us in the first place.
+
+34
+00:2:6,959 --> 00:2:9,280
+That's the essence of deterrence.
+
+35
+00:2:9,919 --> 00:2:13,780
+This missile is no longer active, but the launch system is preserved.
+
+36
+00:2:14,139 --> 00:2:18,599
+And I wanted an insight into how it felt to control this incredible power.
+
+37
+00:2:19,759 --> 00:2:21,519
+Can we go launch one?
+
+38
+00:2:22,259 --> 00:2:24,239
+I thought you'd never ask!
+
+39
+00:2:28,219 --> 00:2:33,800
+There were 54 of these silos, each one staffed 24 hours a day, 7 days a week.
+
+40
+00:2:34,960 --> 00:2:40,379
+Ready to launch their missiles on the exclusive order of the President of the United States.
+
+41
+00:2:40,659 --> 00:2:43,199
+Alright then, have a seat here Commander.
+
+42
+00:2:43,240 --> 00:2:44,219
+Thank you.
+
+43
+00:2:45,139 --> 00:2:49,219
+So, this is the control center, this is where the crew waited to launch the missile.
+
+44
+00:2:49,240 --> 00:2:51,560
+And how do we know when we need to launch?
+
+45
+00:2:51,699 --> 00:2:54,060
+[Speaker beeping]
+
+46
+00:2:54,840 --> 00:3:0,340
+On radio: 'Alpha, 2, 3, Charlie, Hotel, Victor' (A23CHV)
+
+47
+00:3:0,539 --> 00:3:4,519
+So, we're going to write down every letter and number that we hear in a form in this notebook.
+
+48
+00:3:4,599 --> 00:3:6,819
+I'm going to write it down in this notebook.
+
+49
+00:3:7,039 --> 00:3:10,659
+We'll compare each other's work. If we agree that we've copied the message correctly,
+
+50
+00:3:10,780 --> 00:3:12,479
+then we have what's called a 'valid message,'
+
+51
+00:3:12,879 --> 00:3:15,379
+and authorization to take our lock off the big red safe.
+
+52
+00:3:15,479 --> 00:3:18,079
+You know your combination, I know mine, we don't know each other,
+
+53
+00:3:18,120 --> 00:3:20,319
+so we both have to agree to get inside.
+
+54
+00:3:20,360 --> 00:3:21,920
+Inside we find authenticator cards.
+
+55
+00:3:21,939 --> 00:3:23,419
+I'll give those to you.
+
+56
+00:3:24,199 --> 00:3:27,639
+In the secret message, they sent us a seven-character code word.
+
+57
+00:3:27,680 --> 00:3:30,560
+We're going to look at the first two letters of the code word, we're going to find the authenticator
+
+58
+00:3:30,580 --> 00:3:31,860
+that has those first two letters.
+
+59
+00:3:31,879 --> 00:3:37,620
+If the card here matches the code word they sent us, then this is a legitimate order to go.
+
+60
+00:3:37,699 --> 00:3:40,919
+That gives us permission to put in our launch keys. I've already put them in for us.
+
+61
+00:3:40,939 --> 00:3:44,979
+Key right here for you, commander. And for me there's a key right over here.
+
+62
+00:3:45,020 --> 00:3:48,920
+The keys are far enough apart that not even a long-armed guy like me can reach them both.
+
+63
+00:3:49,139 --> 00:3:51,639
+The keys must be turned within 2 seconds of each other
+
+64
+00:3:51,659 --> 00:3:53,719
+and held, they're spring loaded,
+
+65
+00:3:53,759 --> 00:3:56,340
+so held for 5 seconds to start the launch.
+
+66
+00:3:56,379 --> 00:3:59,199
+That guarantees that two people will be required to do it.
+
+67
+00:3:59,240 --> 00:4:1,219
+You just can't run back and forth and do it yourself.
+
+68
+00:4:1,240 --> 00:4:5,100
+And last but not least, we need the secret unlock code for the missle.
+
+69
+00:4:5,120 --> 00:4:10,000
+Six little wheels. Each little wheel has 16 letters of the alphabet.
+
+70
+00:4:11,639 --> 00:4:14,099
+Nominally 17 million combinations.
+
+71
+00:4:14,479 --> 00:4:16,579
+Only one will operate the missile.
+
+72
+00:4:16,600 --> 00:4:21,379
+This is the fail safe that prevents an unauthorized or accidental launch of the missle.
+
+73
+00:4:21,639 --> 00:4:26,719
+So once we have all those things: authentication, keys, code, we're good to go.
+
+74
+00:4:26,740 --> 00:4:28,100
+— All set? — Let's do it.
+
+75
+00:4:28,160 --> 00:4:31,480
+Give me a countdown, "3-2-1 Turn keys", we'll send this thing on it's way.
+
+76
+00:4:31,500 --> 00:4:33,420
+After you comander.
+
+77
+00:4:33,500 --> 00:4:34,199
+3...
+
+78
+00:4:34,220 --> 00:4:35,020
+2...
+
+79
+00:4:35,040 --> 00:4:35,760
+1...
+
+80
+00:4:35,899 --> 00:4:37,159
+Turn keys.
+
+81
+00:4:38,000 --> 00:4:40,040
+And hold.
+
+82
+00:4:40,959 --> 00:4:42,439
+Okay, you may release.
+
+83
+00:4:42,480 --> 00:4:44,120
+That's all there is to it.
+
+84
+00:4:44,160 --> 00:4:46,200
+The green light turns on. Its says "Launch enable".
+
+85
+00:4:47,480 --> 00:4:52,200
+For all intents and purposes, that should say "Welcome to World War III"
+
+86
+00:4:52,279 --> 00:4:53,879
+Because that's pretty much what it boils down to.
+
+87
+00:4:53,899 --> 00:4:58,620
+When you turn the key you are committed. There is no "Oops" switch anywhere.
+
+88
+00:4:58,660 --> 00:5:2,120
+When the batteries come to full power, the missile will transfer to internal power,
+
+89
+00:5:2,139 --> 00:5:4,339
+meaning that it is fully independent.
+
+90
+00:5:4,379 --> 00:5:7,800
+About that same time, the silo door starts to slide open.
+
+91
+00:5:11,500 --> 00:5:16,199
+It will slide through security radar beams and set off the alarm.
+
+92
+00:5:16,379 --> 00:5:18,399
+That gives us "Silo Soft".
+
+93
+00:5:18,439 --> 00:5:22,100
+"Guidance Go" means the internal guidance computer has full control of the mission.
+
+94
+00:5:22,220 --> 00:5:24,800
+In a few seconds we'll have main engine start.
+
+95
+00:5:26,600 --> 00:5:29,260
+From engine start we will build up thrust.
+
+96
+00:5:29,300 --> 00:5:30,660
+Pump the hold down bolts.
+
+97
+00:5:31,860 --> 00:5:33,300
+And off you go.
+
+98
+00:5:33,379 --> 00:5:35,019
+Into the wild we know.
+
+99
+00:5:47,560 --> 00:5:51,040
+So that's it? We just basically just ended life on Earth.
+
+100
+00:5:52,660 --> 00:5:53,840
+As you know it.
+
+101
+00:6:4,639 --> 00:6:8,240
+In these silos, the Titan missiles had a terrifying purpose.
+
+102
+00:6:8,360 --> 00:6:13,280
+But they were also put to much better uses, minus their war-head of course.
+
+103
+00:6:13,300 --> 00:6:18,600
+For example, the Voyager spacecraft was launched into space atop a Titan III missile.
+
+104
+00:6:18,639 --> 00:6:22,839
+And Neil Armstrong took his first flight into space atop a Titan II.
+
+105
+00:6:22,879 --> 00:6:27,620
+The exact same missile that would have delivered nuclear warheads to the Soviet Union.
+
+106
+00:6:27,899 --> 00:6:33,939
+So the Cold War didn't only bring us this fear and potential of mutually assured destruction,
+
+107
+00:6:34,139 --> 00:6:37,879
+it also made space exploration possible.
+
+108
+00:6:38,759 --> 00:6:44,279
+Now I want to say thank you to everyone for writing in to request that this documentary be played in your area.
+
+109
+00:6:44,300 --> 00:6:49,280
+Thanks to you, we've managed to get it broadcast in Norway, Sweden and the Middle East.
+
+110
+00:6:49,319 --> 00:6:51,639
+And details are in the description, so check it out.
+
+111
+00:6:51,759 --> 00:6:57,800
+For everyone else, the documentray will be available online via our broadcasters
+
+112
+00:6:57,839 --> 00:7:0,000
+though there may be some geo-blocking restrictions.
+
+113
+00:7:0,019 --> 00:7:6,719
+But I'm pretty confident that anyone who wants to see the documentary will be able to via those means.
+
+114
+00:7:6,759 --> 00:7:11,699
+So I hope you watch it, I hope you enjoy it. It premiers in just a few days in the US.
+
+115
+00:7:11,740 --> 00:7:16,060
+That's July 28th: 10pm Eastern, 9 Central.
+
+116
+00:7:16,199 --> 00:7:18,560
+For more details check out links in the description.
+
+117
+00:7:18,620 --> 00:7:22,939
+I hope you check it out and I really hope you enjoy it. I appreciate so much your support.
+
+118
+00:7:23,100 --> 00:7:26,740
+It means everything to me. So again, thanks for watching.
